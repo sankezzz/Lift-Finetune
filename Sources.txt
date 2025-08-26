@@ -1,0 +1,5 @@
+https://universe.roboflow.com/untired/cctv-person-9yb84     (CCTV) - person dataset
+
+https://www.kaggle.com/datasets/adilshamim8/people-detection ( Overall good dataset - with people and also cctv footages )
+
+https://vip.bu.edu/projects/vsns/cossy/fisheye/li-et-al/ (fisheye camera - dataset )
